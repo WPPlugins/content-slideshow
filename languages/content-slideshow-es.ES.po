@@ -1,0 +1,68 @@
+# Copyright (C) 2014 Content Slideshow
+# This file is distributed under the same license as the Content Slideshow package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Content Slideshow 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/content-slideshow\n"
+"POT-Creation-Date: 2014-04-24 04:58:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-05-06 11:23+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#. #-#-#-#-#  plugin.pot (Content Slideshow 1.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: slideshow-widget-shortcode.php:28
+msgid "Content Slideshow"
+msgstr "Slideshow de Contenido"
+
+#: slideshow-widget-shortcode.php:79
+msgid "Title:"
+msgstr "Título:"
+
+#: slideshow-widget-shortcode.php:83
+msgid "Image Size:"
+msgstr "Tamaño de Imagen:"
+
+#: slideshow-widget-shortcode.php:91
+msgid "Delay:"
+msgstr "Retraso:"
+
+#: slideshow.php:38
+msgid "Slideshow :: %s"
+msgstr "Slideshow :: %s"
+
+#: slideshow.php:87
+msgid "Sorry, there are no images to display here."
+msgstr "Disculpe, no hay imágenes para mostrar aquí."
+
+#. Plugin URI of the plugin/theme
+msgid "http://celloexpressions.com/plugins/content-slideshow"
+msgstr "http://celloexpressions.com/plugins/content-slideshow"
+
+#. Description of the plugin/theme
+msgid ""
+"Creates an automatic web-based slideshow that randomly cycles through all of "
+"your site's image content. Includes a slideshow page and a widget and "
+"shortcode embed."
+msgstr ""
+"Crea un slideshow automático basado en la web que itera aleatoriamente por "
+"todo el contenido de imágenes de su sitio. Incluye una página de slideshow y "
+"un widget y un código corto adjunto."
+
+#. Author of the plugin/theme
+msgid "Nick Halsey"
+msgstr "Nick Halsey"
+
+#. Author URI of the plugin/theme
+msgid "http://celloexpressions.com/"
+msgstr "http://celloexpressions.com/"
+
+#. Tags of the plugin/theme
+msgid "Slideshow, Pictures, Media, Media Library, Automatic, Widget, Shortcode"
+msgstr ""
+"Slideshow, Imágenes, Media, Librería de Media, Automático, Widget, Código "
+"Corto"
